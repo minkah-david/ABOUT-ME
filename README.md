@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @minkahdavid
-- 
+
+
 - Cloud DevOps Engineer | Executive Director at The Telescope International | CI/CD Specialist | Automation Enthusiast | Kubernetes Advocate | Agile Practitioner | Digital Marketing Strategist | Content Writing | SEO
 
 
