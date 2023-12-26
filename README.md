@@ -9,13 +9,13 @@
 
   - Automate, Be Highly Available, Optimize Cost and Drink Coffee....That is my mantra.
 
-  As a Cloud DevOps Engineer, I'm passionate about crafting robust, scalable, and efficient solutions that bridge the gap between development and operations. With a penchant for driving digital transformation and streamlining processes, I excel in creating synergy between technology and business goals.
+  * As a Cloud DevOps Engineer, I'm passionate about crafting robust, scalable, and efficient solutions that bridge the gap between development and operations. With a penchant for driving digital transformation and streamlining processes, I excel in creating synergy between technology and business goals.
 
 .
 
 🌟 ACHIEVEMENTS 🌟
 
-🔷 Reduced deployment times by 50% through CI/CD pipeline automation, leading to increased development velocity and higher-quality releases.
+- 🔷 Reduced deployment times by 50% through CI/CD pipeline automation, leading to increased development velocity and higher-quality releases.
 
 🔷 Managed Kubernetes clusters to provide high availability, scalability, and resource optimization, to support the growth of infrastructure.
 
