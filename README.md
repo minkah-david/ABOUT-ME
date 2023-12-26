@@ -35,10 +35,10 @@
 .
 
 🔷 INFRASTRUCTURE AS CODE	
-  - Configuration Management	-  (Ansible)
-  - Containerization	                        -  (Docker)
-  - Container Orchestration	        -  (Kubernetes)
-  - Infrastructure Provisioning	        -  (Terraform)
+  - Configuration Management	           -  (Ansible)
+  - Containerization	                   -  (Docker)
+  - Container Orchestration	             -  (Kubernetes)
+  - Infrastructure Provisioning	         -  (Terraform)
 
 .
 
@@ -58,9 +58,9 @@
 .
 
 🔷 SERVERS		
-  - Web Servers	                        - (Apache, Ngnix, Tomcat).
-  - Caching	                                - (Redis)
-  - Database	                                - (Mongo DB (NoSQL),  PostgreSQL (SQL) )
+  - Web Servers	                         -  (Apache, Ngnix, Tomcat).
+  - Caching	                             -  (Redis)
+  - Database	                           -  [ Mongo DB (NoSQL),  PostgreSQL (SQL) ]
 
 .
 
@@ -70,13 +70,13 @@
 .
 
 🔷 MONITORING AND LOGGING	
-  - Monitoring	                                       - (Prometheus).
-  - Logging & Audit	                               - (ELK)
+  - Monitoring	                         -  (Prometheus).
+  - Logging & Audit	                     -  (ELK)
 
 .
 
 🔷 SECURITY FOCUS
-I prioritize security, implementing best practices, managing access controls, and ensuring secure container images through Docker Content Trust.
+- I prioritize security, implementing best practices, managing access controls, and ensuring secure container images through Docker Content Trust.
 
 .
 
