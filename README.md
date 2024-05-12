@@ -7,7 +7,7 @@
 
 🌟 ABOUT ME 🌟 
 
-  - Automate, Be Highly Available, Optimize Cost and Drink Coffee....That is my mantra.
+  - Automate, Be Highly Available, Be Fault Tolerant, Optimize Cost and Drink Coffee....That is my mantra.
 
   - As a Cloud DevOps Engineer, I'm passionate about crafting robust, scalable, and efficient solutions that bridge the gap between development and operations. With a penchant for driving digital transformation and streamlining processes, I excel in creating synergy between technology and business goals.
 
